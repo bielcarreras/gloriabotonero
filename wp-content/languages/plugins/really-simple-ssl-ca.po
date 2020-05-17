@@ -1,0 +1,641 @@
+# Translation of Plugins - Really Simple SSL - Stable (latest release) in Catalan
+# This file is distributed under the same license as the Plugins - Really Simple SSL - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-10 05:36:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: Plugins - Really Simple SSL - Stable (latest release)\n"
+
+#: class-admin.php:3209
+msgid "Records all searches made on your site. See valuable insights in a clean dashboard"
+msgstr "Registreu totes les cerques realitzades al lloc web. Mireu tota la informació valuosa en un tauler net"
+
+#: class-admin.php:2152
+msgid "Don't show again"
+msgstr "No mostres de nou"
+
+#: class-admin.php:2775
+msgid "Your site uses Elementor. This can require some additional steps before getting the secure lock. %sSee our guide for detailed instructions%s "
+msgstr "El lloc usa Elementor. Això pot requerir alguns passos addicionals abans de tenir el cadenat de seguretat. %sVegeu la nostra guia amb les instruccions detallades%s"
+
+#: class-admin.php:2687
+msgid "The mixed content fixer could not be detected due to a cURL error: %s. cURL errors are often caused by an outdated version of PHP or cURL and don't affect the front-end of your site. Contact your hosting provider for a fix. %sMore information about this warning%s"
+msgstr "El reparador de contingut mixt no s'ha pogut detectar per un error de cURL: %s. Els errors de cURL sovint estan causats per una versió antiga de PHP o cURL i no afecten el frontal del lloc. Contacteu amb el proveïdor d'allotjament per una solució. %sMés informació sobre aquests avisos%s"
+
+#: class-admin.php:2682
+msgid "Error occured when retrieving the webpage."
+msgstr "S'ha produït un error en obtenir la pàgina web."
+
+#: class-site-health.php:55
+msgid "The 301 .htaccess redirect is often the fastest and most reliable redirect option."
+msgstr "La redirecció 301 del fitxer .htaccess és sovint la més ràpida i fiable."
+
+#: class-site-health.php:52
+msgid "301 .htaccess redirect is not enabled."
+msgstr "La redirecció 301 del fitxer .htaccess no està habilitada."
+
+#: class-site-health.php:44
+msgid "You have set a 301 redirect to SSL. This is important for SEO purposes"
+msgstr "Heu configurat la redirecció 301 a SSL. És important per motius de SEO."
+
+#: class-site-health.php:36
+msgid "301 SSL redirect enabled"
+msgstr "Redirecció 301 a SSL activada"
+
+#: class-site-health.php:27
+msgid "Really Simple SSL HSTS test"
+msgstr "Prova HSTS de Really simple SSL"
+
+#: class-admin.php:3741
+msgid "Enable this option to dismiss all +1 notices in the Configuration tab"
+msgstr "Activeu aquesta opció per descartar tots els avisos +1 de la pestanya de configuració"
+
+#: class-admin.php:3400
+msgid "Dismiss all Really Simple SSL notices"
+msgstr "Descarta tots els avisos de Really Simple SSL"
+
+#: class-admin.php:2669 class-admin.php:2740 class-admin.php:2776
+#: class-admin.php:2790
+msgid "or"
+msgstr "o"
+
+#: class-admin.php:2635
+msgid "dismiss"
+msgstr "descarta"
+
+#: class-admin.php:2634
+msgid "Enable"
+msgstr "Activa"
+
+#: class-admin.php:3399
+msgid "Use alternative method to fix mixed content"
+msgstr "Usa el mètode alternatiu per solucionar el contingut mixt"
+
+#: class-admin.php:3198
+msgid "Create beautiful SEO friendly recipe cards for your recipes with Zip Recipes."
+msgstr "Creeu boniques targetes de receptes aptes per SEO amb Zip Recipes."
+
+#: class-admin.php:2831
+msgid "No mixed content scan performed (%spremium%s) "
+msgstr "No s'ha realitzat escaneig de contingut mixt (%spremium%s) "
+
+#: class-admin.php:2821
+msgid "Secure cookie settings not enabled (%spremium%s) "
+msgstr "La configuració segura de les galetes no s'ha activat (%spremium%s) "
+
+#: class-admin.php:2807
+msgid "%sHTTP Strict Transport Security%s is not enabled %s(premium)%s"
+msgstr "L'%sHTTP Strict Transport Security%s no està habilitat %s(premium)%s"
+
+#: class-admin.php:2738
+msgid "WordPress 301 redirect enabled. We recommend to enable the 301 .htaccess redirect option on your specific setup."
+msgstr "S'ha activar la redirecció 301 del WordPress. Recomanem que activeu la opció de redirecció per .htaccess a la configuració."
+
+#: class-admin.php:2717
+msgid "301 redirect to https set: WordPress redirect."
+msgstr "S'ha definit la redirecció 301 a https: redirecció del WordPress."
+
+#: class-admin.php:2732
+msgid "301 redirect to https set: .htaccess redirect."
+msgstr "S'ha definit la redirecció 301 a https: redirecció de fitxer .htaccess."
+
+#: class-multisite.php:811
+msgid "If the conversion does not proceed after a few minutes, click %shere%s to force the conversion process."
+msgstr "Si la conversió no es fa en uns minuts, feu clic %saquí%s per forçar el procés de conversió."
+
+#: class-multisite.php:784 class-admin.php:2201
+msgid "The 'force-deactivate.php' file has to be renamed to .txt. Otherwise your ssl can be deactivated by anyone on the internet."
+msgstr "El fitxer 'force-deactivate.php' s'ha de reanomenar a .txt. Si no, l'ssl es podrà desactivar per qualsevol a internet."
+
+#: class-admin.php:3187
+msgid "The Complianz Privacy Suite (GDPR/CaCPA) for WordPress. Simple, Quick and Complete. Up-to-date customized legal documents by a prominent IT Law firm."
+msgstr "La Complianz Privacy Suite (GDPR/CaCPA) per al WordPress. Senzilla, ràpida i completa. Textos legals al dia personalitzats per una coneguda firma d'advocats especialitzats en tecnologia."
+
+#: class-admin.php:2668
+msgid "Really Simple SSL has received no response from the webpage. See our knowledge base for %sinstructions on how to fix this warning%s"
+msgstr "Really Simple SSL no ha rebut cap resposta de la pàgina. Mireu la nostra base de coneixement sobre %sinstruccions per solucionar aquest avís%s"
+
+#: class-admin.php:449
+msgid "Really Simple SSL failed to detect a valid SSL certificate. If you do have an SSL certificate, try to reload this page over https by clicking this button: %sReload over https%s The built-in certificate check will run once daily, to force a new certificate check visit the SSL settings page. "
+msgstr "Really Simple SSL no ha pogut detectar un certificat SSL vàlid. Si teniu un certificat SSL, proveu de recarregar aquesta pàgina amb https fent clic a aquest botó: %sRecarrega en https%s El mecanisme de comprovació intern de certificats s'executa un cop al dia, per forçar la verificació de nou, aneu a la configuració d'SSL. "
+
+#: multisite-cron.php:11
+msgid "Once every minute"
+msgstr "Un vegada cada minut"
+
+#: class-multisite.php:810
+msgid "You have just started enabling or disabling SSL on multiple websites at once, and this process is not completed yet. Please refresh this page to check if the process has finished. It will proceed in the background."
+msgstr "Acabeu d'activar o desactivar SSL en multiples llocs a la vegada, aquest procés no s'ha completat encara. Refresqueu la pàgina per comprovar si el procés ha acabat. Seguirà en segon terme."
+
+#: class-multisite.php:809
+msgid "Conversion of websites %s percent complete."
+msgstr "Conversió dels llocs web %s per cent completada."
+
+#: class-admin.php:2150
+msgid "Maybe later"
+msgstr "Potser després"
+
+#: class-admin.php:2148
+msgid "Leave a review"
+msgstr "Deixa un comentari"
+
+#: class-admin.php:3760
+msgid "Deactivate Plugin and keep SSL"
+msgstr "Desactiva l'extensió i manté l'SSL"
+
+#. Author of the plugin
+msgid "Rogier Lankhorst, Mark Wolters"
+msgstr "Rogier Lankhorst, Mark Wolters"
+
+#: class-multisite.php:865
+msgid "Activate SSL per site or install a wildcard certificate to fix this."
+msgstr "Activa SSL per el lloc web o instal·la un certificat multidomini per arreglar-ho."
+
+#: class-multisite.php:864
+msgid "This leads to issues when activating SSL networkwide since subdomains will be forced over SSL as well while they don't have a valid certificate."
+msgstr "Això porta problemes quan s'activa l'SSL a tota la xarxa perquè els subdominis estaran obligats a anar amb SSL encara que no tinguin un certificat vàlid."
+
+#: class-multisite.php:863
+msgid "You run a Multisite installation with subdomains, but your site doesn't have a wildcard certificate."
+msgstr "Esteu executant una instal·lació multilloc amb subdominis, però el domini no té un certificat multidomini."
+
+#: class-admin.php:3857
+msgid "(revert to http)"
+msgstr "(reverteix a http)"
+
+#: class-admin.php:3792
+msgid "Clicking this button will deactivate the plugin while keeping your site on SSL. The WordPress 301 redirect, Javascript redirect and mixed content fixer will stop working. The site address will remain https:// and the .htaccess redirect will remain active. Deactivating the plugin via the plugins overview will revert the site back to http://."
+msgstr "En fer clic a aquest botó es desactivarà l'extensió mantenint el lloc amb SSL. La redirecció 301, redirecció Javascript i el reparador de contingut mixt deixaran de funcionar. L'adreça del lloc web seguirà amb https:// i la redirecció .htaccess es mantindrà activa. En desactivar l'extensió des del menú de les extensions revertirà el lloc de nou a http://."
+
+#: class-admin.php:3787
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: class-admin.php:3784
+msgid "I'm sure I want to deactivate"
+msgstr "Estic segur que vull desactivar"
+
+#: class-admin.php:3770
+msgid "Deactivating the plugin via the plugins overview will revert the site back to http://."
+msgstr "En desactivar l'extensió des del menú de les extensions es revertirà el lloc de nou a http://."
+
+#: class-admin.php:3769
+msgid "* The .htaccess redirect will remain active"
+msgstr "* La redirecció .htaccess es mantindrà activa"
+
+#: class-admin.php:3768
+msgid "* Your site address will remain https://"
+msgstr "* El lloc seguirà sota https://"
+
+#: class-admin.php:3767
+msgid "* The WordPress 301 and Javascript redirect will stop working"
+msgstr "* La redirecció 301 del WordPress i del Javascript deixaran de funcionar"
+
+#: class-admin.php:3766
+msgid "* The mixed content fixer will stop working"
+msgstr "* El reparador de contingut mixt deixarà de funcionar"
+
+#: class-admin.php:3764
+msgid "Deactivating the plugin while keeping SSL will do the following:"
+msgstr "En desactivar l'extensió mentre mantenim SSL farà el següent:"
+
+#: class-admin.php:3763
+msgid "Are you sure?"
+msgstr "Esteu segurs?"
+
+#: class-admin.php:3402
+msgid "Deactivate plugin and keep SSL"
+msgstr "Desactiva l'extensió i manté SSL"
+
+#: class-admin.php:2228 class-admin.php:3326
+msgid "More info"
+msgstr "Més informació"
+
+#: class-admin.php:3244
+msgid "Export your WooCommerce sales directly to Moneybird."
+msgstr "Exporta les vendes de WooCommerce directament a Moneybird."
+
+#: class-admin.php:3233
+msgid "Export your Easy Digital Downloads sales directly to Moneybird."
+msgstr "Exporta les vendes de Easy Digital Downloads directament a Moneybird."
+
+#: class-admin.php:3222
+msgid "UM Tagging allows you to @tag or @mention all users on your platform."
+msgstr "L'etiquetatge UM us permet @etiquetar o @mencionar tots els usuaris de la plataforma."
+
+#: class-admin.php:3159
+msgid "We have some suggestions for your setup. Let us know if you have a suggestion for %sus%s!"
+msgstr "Tenim alguns suggeriments sobre la configuració. Feu-nos saber si teniu algun suggeriment sobre %snosaltres%s!"
+
+#: class-admin.php:455
+msgid "Really Simple SSL requires a valid SSL certificate. You can check your certificate on %sQualys SSL Labs%s."
+msgstr "Really Simple SSL requereix un certificat SSL vàlid. Podeu consultar el certificat a %sQualys Laboratoris SSL%s."
+
+#: class-admin.php:442
+msgid "Detected possible certificate issues"
+msgstr "S'han detectat possibles problemes de certificat"
+
+#: class-admin.php:82
+msgid "Really Simple SSL and Really Simple SSL add-ons do not process any personal identifiable information, so the GDPR does not apply to these plugins or usage of these plugins on your website. You can find our privacy policy <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Really Simple SSL i els complements de Really Simple SSL no processen cap informació personal identificable, per tant, la GDPR no té implicacions amb aquestes extensions o el seu ús en la web. Podeu trobar la nostra política de privadesa <a href=\"%s\" target=\"_blank\">aquí</a>."
+
+#. Author URI of the plugin
+msgid "https://really-simple-plugins.com"
+msgstr "https://really-simple-plugins.com"
+
+#: class-admin.php:2817
+msgid "Secure cookies set"
+msgstr "Conjunt de galetes segures"
+
+#: class-multisite.php:835 class-admin.php:2224
+msgid "Don't forget to change your settings in Google Analytics and Webmaster tools."
+msgstr "No oblideu canviar la configuració a Google Analytics i Webmaster tools."
+
+#: class-admin.php:3719
+msgid "If this option is set to true, the mixed content fixer will fire on the init hook instead of the template_redirect hook. Only use this option when you experience problems with the mixed content fixer."
+msgstr "Si aquesta opció està configurada com a veritable, el fixador de contingut mixt executarà el codi inicial en lloc del codi template_redirect. Utilitzeu aquesta opció només quan tingueu problemes amb el fixador de contingut mixt."
+
+#: class-admin.php:3658
+msgid "The plugin could not detect any possible redirect rule."
+msgstr "L'extensió no ha pogut detectar cap possible regla de redirecció."
+
+#: class-admin.php:3642
+msgid "The .htaccess redirect rules that were selected by this plugin failed in the test. The following redirect rules were tested:"
+msgstr "Les regles de redirecció .htaccess seleccionades per aquesta extensió han fallat a les proves. S'han provat aquestes regles:"
+
+#: class-admin.php:542
+msgid "You can also let the automatic scan of the pro version handle this for you, and get premium support, increased security with HSTS and more!"
+msgstr "També podeu deixar que l'escaneig automàtic de la versió pro us gestioni això, i obtenir suport prèmium, seguretat incrementada amb HSTS i més!"
+
+#: class-multisite.php:1020
+msgid "If you want more options to have full control over your multisite network, you can %supgrade%s your license to a multisite license, or dismiss this message"
+msgstr "Si voleu més opcions per tenir control complet de la xarxa multilloc, podeu %sactualitzar%s la vostra llicència a una de multilloc, o descartar aquest missatge"
+
+#: class-multisite.php:1011
+msgid "You are running Really Simple SSL pro. A dedicated add-on for multisite has been released. If you want more options to have full control over your multisite network, you can ask for a discount code to %supgrade%s your license to a multisite license."
+msgstr "Esteu fent servir Really Simple SSL pro. S'ha publicat un complement dedicat per multilloc. Si voleu més opcions per tenir control total de la xarxa multilloc, podeu demanar un descompte per %sactualitzar%s la llicència a una de multilloc."
+
+#: class-multisite.php:832
+msgid "SSL was activated per site."
+msgstr "S'ha activat l'SSL per el lloc."
+
+#: class-multisite.php:830
+msgid "SSL was activated on your entire network."
+msgstr "S'ha activat l'SSL a la xarxa sencera."
+
+#: class-multisite.php:230
+msgid "Really Simple SSL multisite options"
+msgstr "Opcions multilloc de Really Simple SSL"
+
+#: class-multisite.php:227
+msgid "Options saved."
+msgstr "S'han desat les opcions."
+
+#: class-multisite.php:203
+msgid "Select to enable SSL networkwide or per site."
+msgstr "Selecciona per activar SSL a tota la xarxa o per lloc."
+
+#: class-multisite.php:198
+msgid "per site"
+msgstr "per lloc"
+
+#: class-multisite.php:197
+msgid "networkwide"
+msgstr "a tota la xarxa"
+
+#: class-multisite.php:195
+msgid "No selection was made"
+msgstr "No s'ha fet cap selecció"
+
+#: class-multisite.php:187
+msgid "Below you can set the multisite options for Really Simple SSL"
+msgstr "A continuació podeu triar les opcions de multilloc per Really Simple SSL"
+
+#: class-multisite.php:176
+msgid "Enable SSL"
+msgstr "Activa SSL"
+
+#: class-admin.php:3665
+msgid "If the setting 'do not edit htaccess' is enabled, you can't change this setting."
+msgstr "Si la opció 'no editis htaccess' està activada, no podeu canviar aquesta opció."
+
+#: class-admin.php:3548 class-admin.php:3580 class-admin.php:3618
+#: class-admin.php:3827
+msgid "This option is enabled on the network menu."
+msgstr "Aquesta opció està habilitada al menú de la xarxa."
+
+#: class-admin.php:523
+msgid "You may need to login in again."
+msgstr "És possible que hàgiu de tornar a iniciar la sessió."
+
+#: class-admin.php:3670
+msgid "Before you enable this, make sure you know how to %1$sregain access%2$s to your site in case of a redirect loop."
+msgstr "Abans d'activar-ho, assegureu-vos que sabeu com aconseguir %1$srecuperar l'accés%2$s al lloc en cas de bucle de redirecció."
+
+#: class-admin.php:3630
+msgid "A .htaccess redirect is faster. Really Simple SSL detects the redirect code that is most likely to work (99% of websites), but this is not 100%. Make sure you know how to regain access to your site if anything goes wrong!"
+msgstr "Una redirecció .htaccess és més ràpida. Really Simple SSL detecta el codi de redirecció que és més probable que funcioni (99% dels llocs web), però això no és un 100%. Assegureu-vos de saber com recuperar l'accés al lloc si alguna cosa va malament!"
+
+#: class-site-health.php:60 class-admin.php:3387
+msgid "Enable 301 .htaccess redirect"
+msgstr "Habilita la redirecció 301 al fitxer .htaccess"
+
+#: class-admin.php:2721 class-admin.php:2763
+msgid "No 301 redirect is set. Enable the WordPress 301 redirect in the settings to get a 301 permanent redirect."
+msgstr "No s'ha definit cap redirecció 301. Habiliteu la redirecció 301 del WordPress a la configuració per obtenir una redirecció 301 permanent."
+
+#: class-admin.php:2758
+msgid "Https redirect cannot be set in the .htaccess file. Set the .htaccess redirect manually or enable the WordPress 301 redirect in the settings."
+msgstr "La redirecció https no es pot configurar al fitxer .htaccess. Configureu la redirecció .htaccess manualment o activeu la redirecció 301 del WordPress a la configuració."
+
+#: class-admin.php:2748
+msgid "Enable a .htaccess redirect or WordPress redirect in the settings to create a 301 redirect."
+msgstr "Habiliteu una redirecció via .htaccess o una redirecció del WordPress a la configuració per crear una redirecció 301."
+
+#: class-admin.php:2187
+msgid "You do not have a 301 redirect to https active in the settings. For SEO purposes it is advised to use 301 redirects. You can enable a 301 redirect in the settings."
+msgstr "No teniu cap redirecció 301 a https activa a la configuració. A efectes de posicionament, s’aconsella utilitzar les redireccions 301. Podeu habilitar una redirecció 301 a la configuració."
+
+#: class-admin.php:3837
+msgid "In most cases you need to leave this enabled, to prevent mixed content issues on your site."
+msgstr "En la majoria dels casos, heu de deixar això activat per evitar problemes de contingut mixt al lloc."
+
+#: class-admin.php:3697
+msgid "If you want to customize the Really Simple SSL .htaccess, you need to prevent Really Simple SSL from rewriting it. Enabling this option will do that."
+msgstr "Si voleu personalitzar el fitxer .htaccess de Really Simple SSL, heu d'evitar que el Really Simple SSL pugui reescriure-ho. Si activeu aquesta opció, ho fareu."
+
+#: class-admin.php:3590
+msgid "Enable this if you want to use the internal WordPress 301 redirect. Needed on NGINX servers, or if the .htaccess redirect cannot be used."
+msgstr "Habiliteu-ho si voleu utilitzar la redirecció interna 301 del WordPress. Necessari per a servidors NGINX o si no es pot utilitzar la redirecció via .htaccess."
+
+#: class-admin.php:3558
+msgid "This is a fallback you should only use if other redirection methods do not work."
+msgstr "Aquesta és una alternativa que només heu d'utilitzar si no funcionen els altres mètodes de redirecció."
+
+#: class-admin.php:3527
+msgid "Enable this option to get debug info in the debug tab."
+msgstr "Habiliteu aquesta opció per obtenir informació de depuració a la pestanya de depuració."
+
+#: class-admin.php:3383
+msgid "Enable WordPress 301 redirection to SSL"
+msgstr "Habilita la redirecció 301 del WordPress a SSL"
+
+#: class-admin.php:2803
+msgid "HTTP Strict Transport Security was enabled."
+msgstr "La seguretat de transport estricta HTTP està habilitada."
+
+#: class-admin.php:2753
+msgid ".htaccess is not writable. Set 301 WordPress redirect, or set the .htaccess manually if you want to redirect in .htaccess."
+msgstr "El fitxer .htaccess no es pot escriure. Configureu la redirecció 301 del WordPress o configureu manualment el fitxer .htaccess si voleu redirigir via .htaccess."
+
+#: class-multisite.php:838
+msgid "More info."
+msgstr "Més informació."
+
+#: class-multisite.php:327
+msgid "reload over https."
+msgstr "torna a carregar sobre https."
+
+#: class-multisite.php:325
+msgid "No SSL was detected. If you do have an SSL certificate, try to reload this page over https by clicking this link:"
+msgstr "No s'ha detectat SSL. Si teniu un certificat SSL, proveu de tornar a carregar aquesta pàgina mitjançant https fent clic a aquest enllaç:"
+
+#: class-admin.php:3418
+msgid "Settings to optimize your SSL configuration"
+msgstr "Configuració per optimitzar la configuració de l'SSL"
+
+#: class-multisite.php:328
+msgid "You can check your certificate on"
+msgstr "Podeu consultar el certificat a"
+
+#: class-admin.php:2188
+msgid "View settings page"
+msgstr "Mostra la pàgina de configuració"
+
+#: class-multisite.php:376
+msgid "You can also let the automatic scan of the pro version handle this for you, and get premium support and increased security with HSTS included."
+msgstr "També podeu deixar que la verificació automàtica de la versió professional tracti això per a vosaltres, obteniu assistència prèmium i major seguretat amb HSTS inclòs."
+
+#: class-admin.php:3873
+msgid "Premium Support"
+msgstr "Suport premium"
+
+#: class-admin.php:3863
+msgid "Docs"
+msgstr "Documents"
+
+#: class-multisite.php:378
+msgid "Check out Really Simple SSL Premium"
+msgstr "Doneu un cop d'ull a la versió prèmium de Really Simple SSL"
+
+#: class-admin.php:517
+msgid "Go ahead, activate SSL!"
+msgstr "Endavant, activa SSL!"
+
+#: class-admin.php:2677
+msgid "The mixed content fixer is active, but was not detected on the frontpage. Please follow %sthese steps%s to check if the mixed content fixer is working."
+msgstr "El fixador de contingut mixt està actiu, però no s'ha detectat a la portada. Seguiu %saquests passos%s per comprovar si el fixador de contingut mixt funciona."
+
+#: class-admin.php:2653
+msgid "SSL is not enabled yet"
+msgstr "L'SSL encara no està habilitat"
+
+#: class-admin.php:2649
+msgid "SSL is enabled on your site."
+msgstr "L'SSL està habilitat al lloc."
+
+#: class-multisite.php:827 class-admin.php:2220
+msgid "SSL activated!"
+msgstr "S'ha activat l'SSL!"
+
+#: class-admin.php:2051
+msgid "Because your server does not pass a variable with which WordPress can detect SSL, WordPress may create redirect loops on SSL."
+msgstr "Com que el servidor no supera la variable amb què el WordPress pot detectar SSL, el WordPress pot crear bucles de redirecció en SSL."
+
+#: class-admin.php:2045
+msgid "Or set your wp-config.php to writable and reload this page."
+msgstr "O bé configureu el fitxer wp-config.php perquè pugui ser escrit i torneu a carregar aquesta pàgina."
+
+#: class-admin.php:2029
+msgid "Because your site is behind a loadbalancer and is_ssl() returns false, you should add the following line of code to your wp-config.php."
+msgstr "Com que el lloc es troba darrere d’un modulador de càrrega i is_ssl () retorna fals, haureu d’afegir la següent línia de codi al fitxer wp-config.php."
+
+#: class-admin.php:2028
+msgid "Your wp-config.php has to be edited, but is not writable."
+msgstr "El fitxer wp-config.php s'ha d'editar, però no es pot escriure."
+
+#: class-admin.php:2025 class-admin.php:2052
+msgid "Set your wp-config.php to writable and reload this page."
+msgstr "Permeteu l'escriptura del fitxer wp-config.php i torneu a carregar aquesta pàgina."
+
+#: class-admin.php:2023
+msgid "A definition of a siteurl or homeurl was detected in your wp-config.php, but the file is not writable."
+msgstr "Al fitxer wp-config.php s'ha detectat una definició d'un siteurl o homeurl, però el fitxer no es pot escriure."
+
+#: class-admin.php:2019
+msgid "System detection encountered issues"
+msgstr "S'han trobat problemes de detecció del sistema"
+
+#: class-multisite.php:344
+msgid "Images, stylesheets or scripts from a domain without an SSL certificate: remove them or move to your own server."
+msgstr "Imatges, fulls d’estils o scripts d’un domini sense certificat SSL: suprimiu-los o moveu-los al vostre propi servidor."
+
+#: class-multisite.php:343 class-admin.php:476
+msgid "Http references in your .css and .js files: change any http:// into //"
+msgstr "Referències http als fitxers .css i .js: canvieu qualsevol http:// a //"
+
+#: class-multisite.php:340 class-admin.php:473
+msgid "Some things can't be done automatically. Before you migrate, please check for: "
+msgstr "Algunes coses no es poden fer automàticament. Abans de migrar, comproveu que:"
+
+#: class-admin.php:468
+msgid "Almost ready to migrate to SSL!"
+msgstr "Gairebé a punt per migrar a SSL!"
+
+#: class-multisite.php:360
+msgid "Networkwide activation does not check if a site has an SSL certificate. It just migrates all sites to SSL."
+msgstr "L’activació a tota la xarxa no comprova si un lloc té un certificat SSL. Només migra tots els llocs a SSL."
+
+#: class-multisite.php:355
+msgid "Activate SSL per site"
+msgstr "Activa SSL per lloc"
+
+#: class-multisite.php:352
+msgid "Activate SSL networkwide"
+msgstr "Activa SSL a tot arreu"
+
+#: class-multisite.php:339
+msgid "Choose your preferred setup"
+msgstr "Tria la configuració preferida"
+
+#: class-server.php:10 class-cache.php:10 class-mixed-content-fixer.php:13
+#: class-multisite.php:32 class-site-health.php:12 class-certificate.php:14
+#: class-admin.php:54 class-front-end.php:19 class-help.php:9
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr "%s és una classe singletó i no podeu crear una segona instància."
+
+#: class-admin.php:3698
+msgid ".htaccess is currently not writable."
+msgstr "Actualment, el fitxer .htaccess no es pot escriure."
+
+#: class-admin.php:2664
+msgid "Mixed content fixer was successfully detected on the front-end"
+msgstr "S'ha detectat correctament el fixador de contingut mixt al lloc web"
+
+#: class-admin.php:2585
+msgid "On <a href='https://really-simple-ssl.com'>really-simple-ssl.com</a> you can find a lot of articles and documentation about installing this plugin, and installing SSL in general."
+msgstr "A <a href='https://really-simple-ssl.com'>really-simple-ssl.com</a> podeu trobar molts articles i documentació sobre la instal·lació d’aquesta extensió i la instal·lació d'SSL en general."
+
+#: class-admin.php:2584
+msgid "Documentation"
+msgstr "Documentació"
+
+#: class-admin.php:3390
+msgid "Enable Javascript redirection to SSL"
+msgstr "Habilita la redirecció de Javascript a SSL"
+
+#: class-admin.php:2698
+msgid "Failed activating SSL."
+msgstr "Ha fallat l'activació de l'SSL."
+
+#. Description of the plugin
+msgid "Lightweight plugin without any setup to make your site SSL proof"
+msgstr "Extensió lleugera sense cap configuració per a fer que el lloc sigui a prova d'SSL"
+
+#. Plugin URI of the plugin
+msgid "https://www.really-simple-ssl.com"
+msgstr "https://www.really-simple-ssl.com"
+
+#. Plugin Name of the plugin
+msgid "Really Simple SSL"
+msgstr "Really Simple SSL"
+
+#: class-admin.php:3396
+msgid "Stop editing the .htaccess file"
+msgstr "Deixa d’editar el fitxer .htaccess"
+
+#: class-admin.php:3118
+msgid "To view results here, enable the debug option in the settings tab."
+msgstr "Per veure els resultats aquí, activeu l’opció de depuració a la pestanya de configuració."
+
+#: class-admin.php:3063
+msgid "Send us a copy of these lines if you have any issues. The log will be erased when debug is set to false"
+msgstr "Envieu-nos una còpia d'aquestes línies si teniu cap problema. El registre s'esborrarà quan la depuració estigui en falsa"
+
+#: class-admin.php:3062
+msgid "Log for debugging purposes"
+msgstr "Registre amb finalitats de depuració"
+
+#: class-admin.php:3049
+msgid "Save"
+msgstr "Enregistrer"
+
+#: class-admin.php:2706
+msgid "An SSL certificate was detected on your site."
+msgstr "S'ha detectat un certificat SSL al lloc."
+
+#: class-admin.php:2603 class-admin.php:3393
+msgid "Debug"
+msgstr "Depurar"
+
+#: class-multisite.php:174 class-multisite.php:1046 class-admin.php:2549
+#: class-admin.php:2602 class-admin.php:3378 class-admin.php:3860
+msgid "Settings"
+msgstr "Configuració"
+
+#: class-admin.php:2601
+msgid "Configuration"
+msgstr "Configuració"
+
+#: class-admin.php:3379
+msgid "Mixed content fixer"
+msgstr "Fixador de contingut mixt"
+
+#: class-admin.php:3012
+msgid "Detected setup"
+msgstr "S'ha detectat la configuració"
+
+#: class-site-health.php:39 class-admin.php:2521
+msgid "SSL"
+msgstr "SSL"
+
+#: class-admin.php:2520
+msgid "SSL settings"
+msgstr "Configuració SSL"
+
+#: class-admin.php:2272
+msgid "The force http after leaving checkout in WooCommerce will create a redirect loop."
+msgstr "El forçat d'http després de deixar la cistella al WooCommerce crearà un bucle de redirecció."
+
+#: class-admin.php:2274
+msgid "Show me this setting"
+msgstr "Mostra'm aquesta configuració"
+
+#: class-admin.php:2270
+msgid "Really Simple SSL has a conflict with another plugin."
+msgstr "Really Simple SSL té un conflicte amb una altre extensió."
+
+#: class-multisite.php:852
+msgid "Activate networkwide to fix this."
+msgstr "Activa a tota la xarxa per solucionar-ho."
+
+#: class-multisite.php:851
+msgid "Because the $_SERVER[\"HTTPS\"] variable is not set, your website may experience redirect loops."
+msgstr "Com que la variable $_SERVER[\"HTTPS\"] no està configurada, el lloc web pot presentar bucles de redirecció."
+
+#: class-multisite.php:850
+msgid "You run a Multisite installation with subfolders, which prevents this plugin from fixing your missing server variable in the wp-config.php."
+msgstr "Esteu executant una instal·lació de diversos llocs amb subcarpetes, la qual cosa impedeix que aquesta extensió corregeixi la variable de servidor que falta al fitxer wp-config.php."
+
+#: class-multisite.php:786 class-admin.php:2203
+msgid "Check again"
+msgstr "Comprova de nou"
+
+#: class-multisite.php:781 class-admin.php:2198
+msgid "Major security issue!"
+msgstr "Problema important de seguretat!"

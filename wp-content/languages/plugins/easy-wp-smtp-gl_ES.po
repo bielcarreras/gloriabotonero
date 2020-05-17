@@ -1,0 +1,462 @@
+# Translation of Plugins - Easy WP SMTP - Development (trunk) in Galician
+# This file is distributed under the same license as the Plugins - Easy WP SMTP - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-07 14:08:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: gl_ES\n"
+"Project-Id-Version: Plugins - Easy WP SMTP - Development (trunk)\n"
+
+#: class-easywpsmtp-admin.php:412
+msgid "Warning! This can't be undone."
+msgstr "Aviso! Isto non se pode desfacer."
+
+#: class-easywpsmtp-admin.php:411
+msgid "This will remove ALL your settings and deactivate the plugin. Useful when you're uninstalling the plugin and want to completely remove all crucial data stored in the database."
+msgstr "Eliminará TODAS as túas configuracións e desactivará o complemento. Útil cando desinstale o complemento e desexa eliminar completamente todos os datos cruciais almacenados na base de datos."
+
+#: class-easywpsmtp-admin.php:411
+msgid "Self-destruct"
+msgstr "Autodestrucción"
+
+#: class-easywpsmtp-admin.php:409
+msgid "Delete Settings and Deactivate Plugin"
+msgstr "Eliminar Configuración e desactivar o complemento"
+
+#: class-easywpsmtp-admin.php:405
+msgid "Use this to import plugin settings from a file. Note this would replace all your existing settings, so use with caution."
+msgstr "Use isto para importar a configuración do complemento desde un ficheiro. Teña en conta que substituiría toda a súa configuración existente, polo que usa con precaución."
+
+#: class-easywpsmtp-admin.php:404
+msgid "Import Settings"
+msgstr "Importar axustes"
+
+#: class-easywpsmtp-admin.php:402
+msgid "Use this to export plugin settings to a file."
+msgstr "Use isto para exportar a configuración do complemento a un ficheiro."
+
+#: class-easywpsmtp-admin.php:401
+msgid "Export Settings"
+msgstr "Exportar axustes"
+
+#: class-easywpsmtp-admin.php:399
+msgid "Export\\Import Settings"
+msgstr "Exportar\\Importar configuración"
+
+#: class-easywpsmtp-admin.php:396
+msgid "Actions in this section can (and some of them will) erase or mess up your settings. Use it with caution."
+msgstr "As accións nesta sección poden (e algunhas delas farano) borrar ou alterar a súa configuración. Úseo con precaución."
+
+#: class-easywpsmtp-admin.php:394
+msgid "Danger Zone"
+msgstr "Zona de perigo"
+
+#: class-easywpsmtp-admin.php:34
+msgid "All settings have been deleted and plugin is deactivated."
+msgstr "Eliminouse toda a configuración e o complemento está desactivado."
+
+#: class-easywpsmtp-admin.php:33
+msgid "Are you sure you want to delete ALL your settings and deactive plugin?"
+msgstr "Está seguro de que desexa eliminar TODA a súa configuración e desactivar o complemento?"
+
+#: easy-wp-smtp.php:589
+msgid "Please refresh the page and try again."
+msgstr "Actualiza a páxina e ténteo de novo."
+
+#: easy-wp-smtp.php:389
+msgid "Settings have been imported successfully."
+msgstr "A configuración foi importada con éxito."
+
+#: easy-wp-smtp.php:325
+msgid "Error occurred during settings import"
+msgstr "Produciuse un erro durante a importación da configuración"
+
+#. translators: %s is replaced by documentation page URL
+#: class-easywpsmtp-admin.php:535
+msgctxt "%s is replaced by <a target=\"_blank\" href=\"https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197\">Easy WP SMTP</a>"
+msgid "Please visit the %s plugin's documentation page to learn how to use this plugin."
+msgstr "Visita a páxina de documentación do complemento %s para aprender a usar este complemento."
+
+#: class-easywpsmtp-admin.php:529
+msgid "Documentation"
+msgstr "Documentación"
+
+#: class-easywpsmtp-admin.php:32
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: class-easywpsmtp-admin.php:31
+msgid "Error occurred:"
+msgstr "Produciuse un erro:"
+
+#: class-easywpsmtp-admin.php:279
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#: class-easywpsmtp-admin.php:273
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#. Author of the plugin
+msgid "wpecommerce, alexanderfoxc"
+msgstr "wpecommerce, alexanderfoxc"
+
+#: class-easywpsmtp-admin.php:467
+msgid "Hide Debug Log"
+msgstr "Agochar o rexistro de depuración"
+
+#: class-easywpsmtp-admin.php:457 class-easywpsmtp-admin.php:465
+msgid "Show Debug Log"
+msgstr "Amosar rexistro de depuración"
+
+#: class-easywpsmtp-admin.php:446
+msgid "Test email was successfully sent. No errors occurred during the process."
+msgstr "O correo electrónico de proba enviouse correctamente. Non se produciron erros durante o proceso."
+
+#: class-easywpsmtp-admin.php:443
+msgid "Following error occurred when attempting to send test email:"
+msgstr "Produciuse o seguinte erro ao intentar enviar un correo electrónico de proba:"
+
+#: class-easywpsmtp-admin.php:364
+msgid "When enabled, your SMTP password is stored in the database using AES-256 encryption."
+msgstr "Cando está habilitado, o seu contrasinal SMTP almacénase na base de datos utilizando o cifrado AES-256."
+
+#: class-easywpsmtp-admin.php:360
+msgid "Encrypt Password"
+msgstr "Cifrar contraseña"
+
+#. translators: %s is PHP version
+#: class-easywpsmtp-admin.php:70
+msgid "Your PHP version is %s, encryption function requires PHP version 5.3.0 or higher."
+msgstr "A súa versión de PHP é %s, a función de cifrado require a versión de PHP 5.3.0 ou superior."
+
+#: class-easywpsmtp-admin.php:62
+msgid "PHP OpenSSL extension is not installed on the server. It is required for encryption to work properly. Please contact your server administrator or hosting provider and ask them to install it."
+msgstr "A extensión PHP  OpenSSL non está instalada no servidor. É necesario que o cifrado funcione correctamente. Póñase en contacto co administrador do seu servidor ou provedor de aloxamento e solicite que o instalen."
+
+#: class-easywpsmtp-admin.php:59
+msgid "PHP OpenSSL extension is not installed on the server. It's required by Easy WP SMTP plugin to operate properly. Please contact your server administrator or hosting provider and ask them to install it."
+msgstr "A extensión PHP OpenSSL non está instalada no servidor. É requirido polo complemento Easy WP SMTP para funcionar correctamente. Póñase en contacto co administrador do seu servidor ou provedor de aloxamento e solicite que o instalen."
+
+#: class-easywpsmtp-admin.php:236
+msgid "If email's From Name is empty, the plugin will set the above value regardless."
+msgstr "Se o Nome do remitente do correo electrónico está baleiro, o complemento establecerá o valor anterior independentemente."
+
+#: class-easywpsmtp-admin.php:234
+msgid "When enabled, the plugin will set the above From Name for each email. Disable it if you're using contact form plugins, it will prevent the plugin from replacing form submitter's name when contact email is sent."
+msgstr "Cando está habilitado, o complemento establecerá o Nome do remitente anterior para cada correo electrónico.  Deshabilítelo se está a utilizar complementos de formulario de contacto, evitará que o complemento substitúa o nome do remitente do formulario cando se envíe un correo electrónico de contacto."
+
+#: class-easywpsmtp-admin.php:232
+msgid "Force From Name Replacement"
+msgstr "Forzar substitución de nome"
+
+#: class-easywpsmtp-admin.php:570
+msgid "rating"
+msgstr "valoración"
+
+#. translators: %s is replaced by rating link
+#: class-easywpsmtp-admin.php:566
+msgctxt "%s is replaced by \"rating\" link"
+msgid "Like the plugin? Please give us a %s"
+msgstr "Gústache o complemento? Por favor dános un %s"
+
+#: class-easywpsmtp-admin.php:560
+msgid "Rate Us"
+msgstr "Valóranos"
+
+#: class-easywpsmtp-admin.php:553
+msgid "Support Forum"
+msgstr "Foro de Soporte"
+
+#. translators: %s is replaced by support forum URL
+#: class-easywpsmtp-admin.php:549
+msgctxt "%s is replaced by \"Support Forum\" link"
+msgid "Having issues or difficulties? You can post your issue on the %s"
+msgstr "Ten problemas ou dificultades? Podes publicar o teu problema en %s"
+
+#: class-easywpsmtp-admin.php:543
+msgid "Support"
+msgstr "Soporte"
+
+#: class-easywpsmtp-admin.php:320
+msgid "when you click \"Save Changes\", your actual password is stored in the database and then used to send emails. This field is replaced with a gag (#easywpsmtpgagpass#). This is done to prevent someone with the access to Settings page from seeing your password (using password fields unmasking programs, for example)."
+msgstr "cando fai clic en \"Gardar cambios\", o seu contrasinal real gardarase na base de datos e despois é usado para enviar correos electrónicos. Este campo substitúese por un gag (# easywpsmtpgagpass #). Isto faise para evitar que alguén con acceso á páxina de configuración vexa o seu contrasinal (empregando campos de contrasinal para desmascarar programas, por exemplo)."
+
+#: class-easywpsmtp-admin.php:374
+msgid "Allows insecure and self-signed SSL certificates on SMTP server. It's highly recommended to keep this option disabled."
+msgstr "Permite certificados SSL inseguros e autofirmados no servidor SMTP. É moi recomendable manter esta opción desactivada."
+
+#: class-easywpsmtp-admin.php:371
+msgid "Allow Insecure SSL Certificates"
+msgstr "Permitir certificados SSL inseguros"
+
+#: class-easywpsmtp-admin.php:489
+msgid "debug log for this test email will be automatically displayed right after you send it. Test email also ignores \"Enable Domain Check\" option."
+msgstr "o rexistro de depuración para este correo electrónico de proba mostrarase automaticamente xusto despois de envialo. O correo electrónico de proba tamén ignora a opción \"Activar comprobación de dominio\"."
+
+#: class-easywpsmtp-admin.php:320 class-easywpsmtp-admin.php:437
+#: class-easywpsmtp-admin.php:489
+msgctxt "\"Note\" as in \"Note: keep this in mind\""
+msgid "Note:"
+msgstr "Nota:"
+
+#: class-easywpsmtp-admin.php:488
+msgid "You can use this section to send an email from your server using the above configured SMTP details to see if the email gets delivered."
+msgstr "Podes usar esta sección para enviar un correo electrónico dende o servidor empregando os detalles SMTP configurados anteriormente para ver se se envía o correo electrónico."
+
+#: class-easywpsmtp-admin.php:437
+msgid "You have unsaved settings. In order to send a test email, you need to go back to previous tab and click \"Save Changes\" button first."
+msgstr "Ten unha configuración non gardada. Para enviar un correo electrónico de proba, primeiro tes que volver á pestana anterior e faga clic primeiro no botón \"Gardar cambios\"."
+
+#: class-easywpsmtp-admin.php:354
+msgid "Block all emails"
+msgstr "Bloquear todos os correos electrónicos"
+
+#: class-easywpsmtp-admin.php:216
+msgid "You can request your hosting provider for the SMTP details of your site. Use the SMTP details provided by your hosting provider to configure the following settings."
+msgstr "Pode solicitar ao seu provedor de aloxamento os detalles SMTP do seu sitio. Use os detalles SMTP proporcionados polo seu provedor de aloxamento para configurar as seguintes opcións."
+
+#: class-easywpsmtp-admin.php:199
+msgid "SMTP Settings"
+msgstr "Configuración SMTP"
+
+#: class-easywpsmtp-admin.php:95 easy-wp-smtp.php:397
+msgid "Nonce check failed."
+msgstr "Non se verificou o control nonce."
+
+#: class-easywpsmtp-admin.php:356
+msgid "When enabled, plugin attempts to block ALL emails from being sent out if domain mismtach."
+msgstr "Se está activado, o complemento intenta evitar que se envíen TODOS os correos electrónicos se non se corresponde o dominio."
+
+#: class-easywpsmtp-admin.php:343
+msgid "This option is useful when you are using several email aliases on your SMTP server. If you don't want your aliases to be replaced by the address specified in \"From\" field, enter them in this field."
+msgstr "Esta opción é útil cando está usando varios alias de correo electrónico no seu servidor SMTP. Se non queres que o teu alias se substitúa polo enderezo especificado no campo \"Desde\", introdúceos neste campo."
+
+#: class-easywpsmtp-admin.php:342
+msgid "Comma separated emails list. Example value: email1@domain.com, email2@domain.com"
+msgstr "Lista de correos electrónicos separados por comas. Valor do exemplo: correo electrónico1@domain.com, correo electrónico2@domain.com"
+
+#: class-easywpsmtp-admin.php:339
+msgid "Don't Replace \"From\" Field"
+msgstr "Non substitúa o campo \"De\""
+
+#: class-easywpsmtp-admin.php:335
+msgid "Additional Settings (Optional)"
+msgstr "Configuración adicional (opcional)"
+
+#: class-easywpsmtp-admin.php:201 class-easywpsmtp-admin.php:435
+msgid "Test Email"
+msgstr "Proba de correo electrónico"
+
+#: class-easywpsmtp-admin.php:30
+msgid "Log cleared."
+msgstr "Rexistro borrado."
+
+#: class-easywpsmtp-admin.php:29
+msgid "Are you sure want to clear log?"
+msgstr "Está seguro de que desexa eliminar o rexistro?"
+
+#: class-easywpsmtp-admin.php:382
+msgid "Clear Log"
+msgstr "Borrar rexistro"
+
+#: class-easywpsmtp-admin.php:382
+msgid "View Log"
+msgstr "Ver rexistro"
+
+#: class-easywpsmtp-admin.php:381
+msgid "Check this box to enable mail debug log"
+msgstr "Sinale esta caixa para habilitar o rexistro de depuración de correo"
+
+#: class-easywpsmtp-admin.php:378
+msgid "Enable Debug Log"
+msgstr "Activa o rexistro de depuración"
+
+#: class-easywpsmtp-admin.php:352
+msgid "Coma-separated domains list. Example: domain1.com, domain2.com"
+msgstr "Lista de dominios separados por coma. Exemplo: dominio1.com, dominio2.com"
+
+#: class-easywpsmtp-admin.php:350
+msgid "This option is usually used by developers only. SMTP settings will be used only if the site is running on following domain(s):"
+msgstr "Esta opción adoita usala só os desenvolvedores. A configuración SMTP só se empregará se o sitio está a funcionar con dominios seguintes:"
+
+#: class-easywpsmtp-admin.php:347
+msgid "Enable Domain Check"
+msgstr "Activa a comprobación do dominio"
+
+#: class-easywpsmtp-admin.php:200
+msgid "Additional Settings"
+msgstr "Configuración adicional"
+
+#: class-easywpsmtp-admin.php:244
+msgid "Optional. This email address will be used in the 'Reply-To' field of the email. Leave it blank to use 'From' email as the reply-to value."
+msgstr "Opcional Este enderezo de correo electrónico usarase no campo \"Responder a\" do correo electrónico. Déixeo en branco para usar o correo electrónico \"De\" como valor de resposta."
+
+#: class-easywpsmtp-admin.php:241
+msgid "Reply-To Email Address"
+msgstr "Enderezo de correo electrónico de resposta"
+
+#: class-easywpsmtp-admin.php:511
+msgid "Write your email message"
+msgstr "Escribe a túa mensaxe de correo electrónico"
+
+#: class-easywpsmtp-admin.php:497
+msgid "Enter the recipient's email address"
+msgstr "Insira o enderezo de correo electrónico do destinatario"
+
+#: class-easywpsmtp-admin.php:213
+msgid "SMTP Configuration Settings"
+msgstr "Opcións de configuración de SMTP"
+
+#: class-easywpsmtp-admin.php:173
+msgid "Please enter a valid email address in the recipient email field."
+msgstr "Introduza un enderezo de correo electrónico válido no campo de correo electrónico do destinatario."
+
+#: easy-wp-smtp.php:377
+msgid "Please configure your SMTP credentials in the <a href=\"%s\">settings menu</a> in order to send email using Easy WP SMTP plugin."
+msgstr "Configure as súas credenciais SMTP no <a href=\"%s\"> menú de configuración </a> para enviar correo electrónico co complemento Easy WP SMTP."
+
+#. Author URI of the plugin
+msgid "https://wp-ecommerce.net/"
+msgstr "https://wp-ecommerce.net/"
+
+#. Description of the plugin
+msgid "Send email via SMTP from your WordPress Blog"
+msgstr "Envía correo electrónico mediante SMTP desde o teu blog de WordPress"
+
+#. Plugin URI of the plugin
+msgid "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+msgstr "https://wp-ecommerce.net/easy-wordpress-smtp-send-emails-from-your-wordpress-site-using-a-smtp-server-2197"
+
+#: class-easywpsmtp-admin.php:516
+msgid "Send Test Email"
+msgstr "Enviar correo electrónico de proba"
+
+#: class-easywpsmtp-admin.php:508
+msgid "Message"
+msgstr "Mensaxe"
+
+#: class-easywpsmtp-admin.php:504
+msgid "Enter a subject for your message"
+msgstr "Insira un asunto para a súa mensaxe"
+
+#: class-easywpsmtp-admin.php:501
+msgid "Subject"
+msgstr "Asunto"
+
+#: class-easywpsmtp-admin.php:494
+msgid "To"
+msgstr "Para"
+
+#: class-easywpsmtp-admin.php:325 class-easywpsmtp-admin.php:387
+msgid "Save Changes"
+msgstr "Gardar cambios"
+
+#: class-easywpsmtp-admin.php:319
+msgid "The password to login to your mail server"
+msgstr "O contrasinal para iniciar sesión no servidor de correo"
+
+#: class-easywpsmtp-admin.php:316
+msgid "SMTP Password"
+msgstr "Contrasinal SMTP"
+
+#: class-easywpsmtp-admin.php:312
+msgid "The username to login to your mail server"
+msgstr "O nome de usuario para iniciar sesión no seu servidor de correo"
+
+#: class-easywpsmtp-admin.php:309
+msgid "SMTP Username"
+msgstr "Nome de usuario SMTP"
+
+#: class-easywpsmtp-admin.php:305
+msgid "This options should always be checked 'Yes'"
+msgstr "Esta opción debe estar sempre marcada \"Si\""
+
+#: class-easywpsmtp-admin.php:304
+msgid "Yes"
+msgstr "Si"
+
+#: class-easywpsmtp-admin.php:298
+msgid "No"
+msgstr "Non"
+
+#: class-easywpsmtp-admin.php:291
+msgid "SMTP Authentication"
+msgstr "Autenticación SMTP"
+
+#: class-easywpsmtp-admin.php:287
+msgid "The port to your mail server"
+msgstr "O porto ao seu servidor de correo"
+
+#: class-easywpsmtp-admin.php:284
+msgid "SMTP Port"
+msgstr "Porto SMTP"
+
+#: class-easywpsmtp-admin.php:280
+msgid "For most servers SSL/TLS is the recommended option"
+msgstr "Para a maioría dos servidores SSL/TLS é a opción recomendada"
+
+#: class-easywpsmtp-admin.php:267
+msgid "None"
+msgstr "Ningún"
+
+#: class-easywpsmtp-admin.php:260
+msgid "Type of Encryption"
+msgstr "Tipo de cifrado"
+
+#: class-easywpsmtp-admin.php:256
+msgid "Your mail server"
+msgstr "O seu servidor de correo"
+
+#: class-easywpsmtp-admin.php:253
+msgid "SMTP Host"
+msgstr "Host SMTP"
+
+#: class-easywpsmtp-admin.php:230
+msgid "This text will be used in the 'FROM' field"
+msgstr "Este texto usarase no campo \"DE\""
+
+#: class-easywpsmtp-admin.php:227
+msgid "From Name"
+msgstr "De, Nome"
+
+#: class-easywpsmtp-admin.php:223
+msgid "This email address will be used in the 'From' field."
+msgstr "Este enderezo de correo electrónico usarase no campo \"De\"."
+
+#: class-easywpsmtp-admin.php:220
+msgid "From Email Address"
+msgstr "Desde, enderezo de correo electrónico"
+
+#: class-easywpsmtp-admin.php:75
+msgid "Easy WP SMTP Settings"
+msgstr "Configuración de Easy WP SMTP"
+
+#: class-easywpsmtp-admin.php:161
+msgid "Settings are not saved."
+msgstr "A configuración non se garda."
+
+#: class-easywpsmtp-admin.php:159
+msgid "Settings saved."
+msgstr "Gardouse a configuración."
+
+#: class-easywpsmtp-admin.php:150
+msgid "Please enter a valid port in the 'SMTP Port' field."
+msgstr "Introduza un porto válido no campo \"Porto SMTP\"."
+
+#: class-easywpsmtp-admin.php:106
+msgid "Please enter a valid email address in the 'FROM' field."
+msgstr "Introduce un enderezo de correo electrónico válido no campo \"DE\"."
+
+#: easy-wp-smtp.php:423 easy-wp-smtp.php:431
+msgid "Settings"
+msgstr "Axustes"
+
+#. Plugin Name of the plugin
+#: class-easywpsmtp-admin.php:42
+msgid "Easy WP SMTP"
+msgstr "Easy WP SMTP"

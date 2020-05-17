@@ -1,0 +1,610 @@
+# Translation of Plugins - Facebook for WooCommerce - Stable (latest release) in Galician
+# This file is distributed under the same license as the Plugins - Facebook for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-09 16:01:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: gl_ES\n"
+"Project-Id-Version: Plugins - Facebook for WooCommerce - Stable (latest release)\n"
+
+#: includes/fbwpml.php:134
+msgid "Saved. An automated sync from Facebook will run every hour to update the catalog with any changes you've made."
+msgstr "Gardado. Executarase cada hora unha sincronización automatizada de Facebook para actualizar o catálogo con calquera cambio que fixeras."
+
+#: includes/Admin.php:586
+msgid "Don't show this notice again"
+msgstr "Non amosar este aviso outra vez"
+
+#: includes/fbproductfeed.php:432
+msgid "Could not create product catalog feed directory"
+msgstr "Non se puido crear o directorio do feed de produtos do catálogo"
+
+#: includes/fbproductfeed.php:498
+msgid "Could not open the product catalog feed file for writing"
+msgstr "Non se puido abrir o arquivo do feed do catálogo de produtos para escribir nel"
+
+#. translators: Placeholders: %1$s - opening HTML <strong> tag, %2$s - closing
+#. HTML </strong> tag, %3$s - opening HTML <a> tag, %4$s - closing HTML </a>
+#. tag
+#: includes/Admin.php:579
+msgid "%1$sHeads up!%2$s Product sync is temporarily changed as we migrate to a more secure experience. An automated sync from Facebook will run every hour to update the catalog with any changes you've made. %3$sLearn more%4$s"
+msgstr "%1$sAtención!%2$s A sincronización de produtos cambiou temporalmente mentres migramos a unha experiencia máis segura. Executarase unha sincronización automática con Facebook cada hora para actualizar o catálogo con calquera cambio que fixeras. %3$sSaber máis%4$s"
+
+#. translators: Placeholders: %1$s - <strong> tag, %2$s - </strong> tag, %3$s -
+#. <a> tag, %4$s - </a> tag, %5$s - <a> tag, %6$s - </a> tag
+#: class-wc-facebookcommerce.php:146
+msgid "%1$sHeads up!%2$s Facebook for WooCommerce is migrating to a more secure connection experience. Please %3$sclick here%4$s and go to %1$sAdvanced Options%2$s > %1$sReconnect Catalog%2$s to securely reconnect. %5$sLearn more%6$s."
+msgstr "%1$sAtención!%2$s  Facebook for WooCommerce está migrando a unha experiencia de conexión máis segura. Por favor, fai %3$sclic aquí%4$s e diríxete a «%1$sOpcións avanzadas%2$s > %1$sReconectar o catálogo%2$s» para volver a conectar de forma segura. %5$sSaber máis%6$s."
+
+#. translators: Placeholders: %1$s - opening HTML <strong> tag, %2$s - closing
+#. HTML </strong> tag, %3$s - opening HTML <a> tag, %4$s - closing HTML </a>
+#. tag
+#: includes/Admin.php:632
+msgid "%1$sHeads up!%2$s Catalog visibility settings have been temporarily removed as we migrate to a more secure experience. To remove products from your Facebook catalog, please disable syncing to Facebook for the product. %3$sLearn more%4$s"
+msgstr "%1$sAtención!%2$s Os axustes de visibilidade do catálogo foron eliminados temporalmente mentres migramos a unha experiencia máis segura. Para eliminar produtos do teu catálogo de Facebook, por favor, desactiva a sincronización con Facebook para o produto. %3$sSaber máis%4$s"
+
+#. translators: Placeholders: %1$s - <strong> tag, %2$s - </strong> tag, %3$s -
+#. <a> tag, %4$s - </a> tag, %5$s - <a> tag, %6$s - </a> tag
+#: class-wc-facebookcommerce.php:156
+msgid "%1$sHeads up!%2$s Facebook for WooCommerce is migrating to a more secure connection experience. Please %3$sclick here%4$s and go to %1$sManage Connection%2$s > %1$sAdvanced Options%2$s > %1$sReconnect Catalog%2$s to securely reconnect. %5$sLearn more%6$s."
+msgstr "%1$sAtento!%2$s Facebook for WooCommerce está migrando a unha experiencia de conexión máis segura. Por favor, %3$sfai clic aquí%4$s e vai a %1$sXestionar conexión%2$s > %1$sOpcións avanzadas%2$s > %1$sReconectar catálogo%2$s para volver a conectar de forma segura. %5$sSaber máis%6$s."
+
+#: facebook-commerce.php:2659
+msgid "Debug"
+msgstr "Depurar"
+
+#: includes/fbgraph.php:104
+msgid "HTTP %s: %s"
+msgstr "HTTP %s: %s"
+
+#: includes/Admin.php:130
+msgid "Launch Test?"
+msgstr "Lanzar a proba?"
+
+#: facebook-commerce.php:2664
+msgid "Enable debug mode"
+msgstr "Activar o modo de depuración"
+
+#: facebook-commerce.php:2187 facebook-commerce.php:2366
+msgid "Product sync is disabled."
+msgstr "A sincronización de produtos está desactivada."
+
+#. translators: Placeholders %1$s - opening <strong> html tag, %2$s closing
+#. </strong> html tag
+#: includes/Admin.php:140
+msgid "%1$sStatus:%2$s Test Fail."
+msgstr "%1$sEstado:%2$s Proba fallida."
+
+#. translators: Placeholders %1$s - opening <strong> html tag, %2$s closing
+#. </strong> html tag
+#: includes/Admin.php:136
+msgid "%1$sStatus:%2$s Test Pass."
+msgstr "%1$sEstado:%2$s Proba correcta."
+
+#: facebook-commerce.php:4005
+msgid "Facebook for WooCommerce error:"
+msgstr "Erro de Facebook for WooCommerce:"
+
+#: facebook-commerce.php:2666
+msgid "Log plugin events for debugging"
+msgstr "Rexistrar os eventos do plugin para a súa depuración"
+
+#: includes/AJAX.php:292
+msgid "Exclude Products and Hide in Facebook"
+msgstr "Excluír produtos e ocultar en Facebook"
+
+#. translators: Placeholders %1$s - opening <strong> html tag, %2$s closing
+#. </strong> html tag, {count} number of remaining items
+#: includes/Admin.php:121
+msgid "%1$sProgress:%2$s {count} item remaining."
+msgid_plural "%1$sProgress:%2$s {count} items remaining."
+msgstr[0] "%1$sProgreso:%2$s {count} artigo pendente."
+msgstr[1] "%1$sProgreso:%2$s {count} artigos pendentes."
+
+#. translators: Placeholders %1$s - opening <strong> html tag, %2$s closing
+#. </strong> html tag
+#: includes/Admin.php:138
+msgid "%1$sStatus:%2$s Integration test in progress..."
+msgstr "%1$sEstado:%2$s Proba de integración en progreso..."
+
+#: facebook-commerce.php:2194 facebook-commerce.php:2373
+msgid "The page access token or product catalog ID are missing."
+msgstr "Falta o token de acceso á páxina ou o ID do catálogo de produtos."
+
+#: includes/Admin.php:141
+msgid "There was an error trying to sync the products to Facebook."
+msgstr "Houbo un erro ao intentar sincronizar o produto con Facebook."
+
+#: includes/Admin.php:132
+msgid "Syncing... Keep this browser open until sync is complete. %s"
+msgstr "Sincronizando... Mantén aberto o navegador ata que se complete a sincronización. %s"
+
+#. translators: Placeholders %s - error message
+#: facebook-commerce.php:2164
+msgid "There was an error trying to sync the products to Facebook. %s"
+msgstr "Houbo un erro ao intentar sincronizar os produtos con Facebook. %s"
+
+#: facebook-commerce.php:2417
+msgid "We couldn't create the feed or upload the product information."
+msgstr "Non puidemos crear o feed ou subir a información do produto."
+
+#: facebook-commerce.php:2667
+msgid "Only enable this if you are experiencing problems with the plugin."
+msgstr "Actívao só se estás tendo problemas co plugin."
+
+#. translators: Placeholders %s - html code for a spinner icon
+#: includes/Admin.php:129
+msgid "Your products will now be resynced to Facebook, this may take some time."
+msgstr "Agora, os teus produtos volverán a sincronizarse con Facebook e poden tardar un rato."
+
+#: includes/Admin.php:142
+msgid "Something went wrong while uploading the product information, please try again."
+msgstr "Algo saíu mal ao subir a información do produto, por favor, inténtao de novo."
+
+#: facebook-commerce.php:2217
+msgid "A product sync is in progress. Please wait until the sync finishes before starting a new one."
+msgstr "Está en progreso unha sincronización de produtos. Por favor, espera ata que a sincronización finalice antes de iniciar outra."
+
+#: facebook-commerce.php:2229 facebook-commerce.php:2387
+msgid "We've detected that your Facebook Product Catalog is no longer valid. This may happen if it was deleted, but could also be a temporary error. If the error persists, please click Manage connection > Advanced Options > Remove and setup the plugin again."
+msgstr "Detectamos que o teu catálogo de produtos de Facebook xa non é válido. Isto pode ocorrer se se borrou, pero tamén podería ser un erro temporal. Se o erro persiste, por favor, fai clic en «Xestionar a conexión > Opcións avanzadas > Eliminar» e configura de novo o plugin."
+
+#: includes/Admin.php:131
+msgid ""
+"Facebook for WooCommerce automatically syncs your products on create/update. Are you sure you want to force product resync?\n"
+"\n"
+"This will query all published products and may take some time. You only need to do this if your products are out of sync or some of your products did not sync."
+msgstr ""
+"Facebook for WooCommerce sincroniza automaticamente os teus productos ao crealos/actualizalos. Seguro que queres forzar a sincronización dos produtos?\n"
+"\n"
+"Isto consultará todos os produtos publicados e pode tardar un rato. Só tes que facer isto se os teus produtos non están sincronizados ou se algúns deles non se sincronizaron."
+
+#. translators: Points to a product that was never synced with Facebook
+#: includes/Admin.php:206
+msgid "Never synced with Facebook."
+msgstr "Nunca se sincronizou con Facebook."
+
+#. translators: Action to hide a product (currently not synced with Facebook)
+#. from the Facebook catalog
+#: includes/Admin.php:223
+msgid "Hide from Facebook catalog. Not synced with Facebook."
+msgstr "Ocultar do catálogo de Facebook. Non sincronizado con Facebook."
+
+#. translators: Action to publish a product (currently not synced with
+#. Facebook) in the Facebook catalog
+#: includes/Admin.php:225
+msgid "Publish in Facebook catalog. Not synced with Facebook."
+msgstr "Publicar no catálogo de Facebook. Non sincronizado con Facebook."
+
+#. translators: Action to hide a product (currently synced with Facebook) from
+#. the Facebook catalog
+#: includes/Admin.php:218
+msgid "Hide from Facebook catalog. Currently synced with Facebook."
+msgstr "Ocultar do catálogo de Facebook. Actualmente sincronizado con Facebook."
+
+#. translators: Action to publish a product (currently synced with Facebook) in
+#. the Facebook catalog
+#: includes/Admin.php:220
+msgid "Publish in Facebook catalog. Currently synced with Facebook."
+msgstr "Publicar no catálogo de Facebook. Actualmente sincronizado con Facebook."
+
+#: facebook-commerce.php:3108
+msgid "am"
+msgstr "am"
+
+#: facebook-commerce.php:3113
+msgid "pm"
+msgstr "pm"
+
+#: includes/fbwpml.php:140
+msgid "Save"
+msgstr "Gardar"
+
+#: includes/Admin.php:236
+msgid "Show"
+msgstr "Amosar"
+
+#: includes/Admin.php:244
+msgid "Hide"
+msgstr "Ocultar"
+
+#: facebook-commerce.php:2822
+msgid "Pixel"
+msgstr "Píxel"
+
+#: facebook-commerce.php:2648
+msgid "Colors"
+msgstr "Cores"
+
+#: includes/AJAX.php:132 includes/AJAX.php:227 includes/AJAX.php:298
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/fbinfobanner.php:212
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: includes/Admin.php:186
+msgid "Enabled"
+msgstr "Activado"
+
+#. Author of the plugin
+#: includes/Admin.php:658 facebook-commerce.php:4168
+msgid "Facebook"
+msgstr "Facebook"
+
+#: facebook-commerce.php:2636
+msgid "Greeting"
+msgstr "Saúdo"
+
+#: facebook-commerce.php:2623
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/Admin.php:188
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: facebook-commerce.php:2868
+msgid "Create ad"
+msgstr "Crear un anuncio"
+
+#: facebook-commerce.php:2609
+msgid "Messenger"
+msgstr "Messenger"
+
+#: facebook-commerce.php:2697
+msgid "Connection"
+msgstr "Conexión"
+
+#: facebook-commerce.php:4202
+msgid "Get Started"
+msgstr "Primeiros pasos"
+
+#: facebook-commerce.php:2551 facebook-commerce.php:2898
+msgid "Product sync"
+msgstr "Sincronización dos produtos"
+
+#: facebook-commerce.php:606
+msgid "Variant IDs:"
+msgstr "ID de variantes:"
+
+#: facebook-commerce.php:595
+msgid "Facebook ID:"
+msgstr "ID de Facebook:"
+
+#: includes/AJAX.php:78
+msgid "Hide Product"
+msgstr "Ocultar o produto"
+
+#: includes/AJAX.php:181
+msgid "Hide Products"
+msgstr "Ocultar os produtos"
+
+#: facebook-commerce.php:2906
+msgid "Sync products"
+msgstr "Sincronizar os produtos"
+
+#: includes/AJAX.php:127 includes/AJAX.php:222
+msgid "Go to Settings"
+msgstr "Ir aos axustes"
+
+#: includes/Admin.php:162
+msgid "FB Sync Enabled"
+msgstr "Activada a sincronización con Facebook"
+
+#: includes/Admin.php:714 includes/Admin.php:812
+msgid "Use custom image"
+msgstr "Usar unha imaxe personalizada"
+
+#: includes/AJAX.php:286
+msgid "Exclude Products"
+msgstr "Excluír produtos"
+
+#: includes/Admin.php:811
+msgid "Use parent image"
+msgstr "Usar unha imaxe principal"
+
+#: includes/Admin.php:723 includes/Admin.php:822
+msgid "Custom Image URL"
+msgstr "URL da imaxe personalizada"
+
+#: facebook-commerce.php:2614
+msgid "Enable Messenger"
+msgstr "Activar Messenger"
+
+#: includes/Admin.php:942
+msgid "Close modal panel"
+msgstr "Cerrar o panel emerxente"
+
+#: facebook-commerce.php:2704
+msgid "Manage connection"
+msgstr "Xestionar a conexión"
+
+#: facebook-commerce.php:2596
+msgid "Short description"
+msgstr "Descrición curta"
+
+#: includes/AJAX.php:82
+msgid "Do Not Hide Product"
+msgstr "Non ocultar o produto"
+
+#: includes/fbinfobanner.php:211
+msgid "Click and redirect."
+msgstr "Facer clic e redirixir."
+
+#: includes/Admin.php:810
+msgid "Use variation image"
+msgstr "Usar unha imaxe de variación"
+
+#: facebook-commerce.php:2555
+msgid "Enable product sync"
+msgstr "Activar a sincronización de produtos"
+
+#: includes/fbwpml.php:114
+msgid "Facebook Visibility"
+msgstr "Visibilidade de Facebook"
+
+#: includes/fbinfobanner.php:212
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#: facebook-commerce.php:2595
+msgid "Standard description"
+msgstr "Descrición estándar"
+
+#: includes/AJAX.php:185
+msgid "Do Not Hide Products"
+msgstr "Non ocultar os produtos"
+
+#: includes/Admin.php:698 includes/Admin.php:793
+msgid "Facebook Description"
+msgstr "Descrición de Facebook"
+
+#: includes/Admin.php:273
+msgid "Facebook sync enabled"
+msgstr "Activada a sincronización con Facebook"
+
+#: facebook-commerce.php:2531
+msgid "Use Advanced Matching"
+msgstr "Usar coincidencia avanzada"
+
+#. translators: Placeholders %1$s - WC currency symbol
+#: includes/Admin.php:732 includes/Admin.php:833
+msgid "Facebook Price (%1$s)"
+msgstr "Prezo de Facebook (%1$s)"
+
+#: includes/Admin.php:713
+msgid "Use WooCommerce image"
+msgstr "Usar unha imaxe de WooCommerce"
+
+#: includes/Admin.php:709 includes/Admin.php:806
+msgid "Facebook Product Image"
+msgstr "Imaxe do produto de Facebook"
+
+#: facebook-commerce.php:2576
+msgid "Exclude tags from sync"
+msgstr "Excluír etiquetas da sincronización"
+
+#: includes/Admin.php:274
+msgid "Facebook sync disabled"
+msgstr "Desactivada a sincronización con Facebook"
+
+#: facebook-commerce.php:646
+msgid "Reset Facebook metadata"
+msgstr "Restablecer os datos meta de Facebook"
+
+#: facebook-commerce-messenger-chat.php:258 facebook-commerce.php:2504
+msgctxt "language"
+msgid "English (United States)"
+msgstr "Inglés (Estados Unidos)"
+
+#: facebook-commerce.php:2589
+msgid "Product description sync"
+msgstr "Sincronización da descrición do produto"
+
+#. Plugin Name of the plugin
+#: class-wc-facebookcommerce.php:345 includes/Admin.php:547
+#: includes/Admin.php:940 facebook-commerce.php:194
+msgid "Facebook for WooCommerce"
+msgstr "Facebook for WooCommerce"
+
+#: includes/Admin.php:458 includes/Admin.php:692 includes/Admin.php:784
+msgid "Include in Facebook sync"
+msgstr "Incluír na sincronización con Facebook"
+
+#. Author URI of the plugin
+msgid "https://www.facebook.com/"
+msgstr "https://www.facebook.com/"
+
+#: includes/Admin.php:459
+msgid "Exclude from Facebook sync"
+msgstr "Excluír da sincronización con Facebook"
+
+#: facebook-commerce.php:2563
+msgid "Exclude categories from sync"
+msgstr "Excluír categorías da sincronización"
+
+#: facebook-commerce.php:2157
+msgid "Your connection has expired."
+msgstr "A túa conexión caducou."
+
+#: facebook-commerce.php:651
+msgid "Delete product(s) on Facebook"
+msgstr "Borrar produto(s) en Facebook"
+
+#: facebook-commerce.php:4185
+msgid "Grow your business on Facebook"
+msgstr "Fai crecer o teu negocio en Facebook"
+
+#: includes/Admin.php:272
+msgid "Filter by Facebook sync setting"
+msgstr "Filtrar polos axustes da sincronización con Facebook"
+
+#: facebook-commerce.php:4192
+msgid "Easily install a tracking pixel"
+msgstr "Instala facilmente un píxel de seguimento"
+
+#: facebook-commerce.php:2584
+msgid "Search for a product tag&hellip;"
+msgstr "Buscar unha etiqueta de produto&hellip;"
+
+#: facebook-commerce.php:3233
+msgid "The greeting hasn't been updated."
+msgstr "O saúdo non se actualizou."
+
+#: facebook-commerce.php:4112
+msgid "Get started with Instagram Shopping"
+msgstr "Primeiros pasos con Instagram Shopping"
+
+#: facebook-commerce.php:2571
+msgid "Search for a product category&hellip;"
+msgstr "Buscar por unha categoría de produto&hellip;"
+
+#: facebook-commerce.php:4193
+msgid "Upload your products and create a shop"
+msgstr "Sube os teus produtos e crea unha tenda"
+
+#: facebook-commerce.php:4111
+msgid "Get started with Messenger Customer Chat"
+msgstr "Primeiros pasos con Messenger Customer Chat"
+
+#: facebook-commerce.php:659
+msgid "This product is not yet synced to Facebook."
+msgstr "Este produto aínda non está sincronizado con Facebook."
+
+#: facebook-commerce.php:1337
+msgid "Nothing to update for product group for %1$s"
+msgstr "Non hai nada que actualizar para o grupo de produtos para %1$s"
+
+#: facebook-commerce.php:4194
+msgid "Create dynamic ads with your products and pixel"
+msgstr "Crea anuncios dinámicos cos teus produtos e píxel"
+
+#: facebook-commerce.php:4188
+msgid "Use this WooCommerce and Facebook integration to:"
+msgstr "Usa esta integración de WooCommerce e Facebook para:"
+
+#: facebook-commerce.php:198
+msgid "Facebook Commerce and Dynamic Ads (Pixel) Extension"
+msgstr "Extensión Facebook Commerce and Dynamic Ads (Pixel)"
+
+#: facebook-commerce.php:2508
+msgid "Hi! We're here to answer any questions you may have."
+msgstr "Ola! Estamos aquí para responder calquera pregunta que poidas ter."
+
+#. translators: Placeholders %1$s - original error message from Facebook API
+#: facebook-commerce.php:4369
+msgid "There was an issue connecting to the Facebook API: %s"
+msgstr "Houbo un problema ao conectar coa API de Facebook: %s"
+
+#. translators: Placeholder: %d - maximum number of allowed characters
+#: facebook-commerce.php:3252
+msgid "The Messenger greeting must be %d characters or less."
+msgstr "O saúdo de Messenger debe ser de %d caracteres ou menos."
+
+#: facebook-commerce.php:2618
+msgid "Enable and customize Facebook Messenger on your store."
+msgstr "Activa e personaliza Facebook Messenger na túa tenda."
+
+#. translators: Placeholders %1$s - original error message from Facebook API
+#: facebook-commerce.php:1785
+msgid "There was an issue connecting to the Facebook API:  %1$s"
+msgstr "Houbo un problema ao conectar coa API de Facebook: %1$s"
+
+#: includes/Admin.php:711 includes/Admin.php:808
+msgid "Choose the product image that should be synced to the Facebook catalog for this product. If using a custom image, please enter an absolute URL (e.g. https://domain.com/image.jpg)."
+msgstr "Elixe a imaxe do produto que debe ser sincronizada co catálogo de Facebook para este produto. Se usas unha imaxe personalizada, introduce unha URL absoluta (por exemplo, https://dominio.com/imaxe.jpg)."
+
+#: facebook-commerce.php:4171
+msgid "Control how WooCommerce integrates with your Facebook store."
+msgstr "Controla como se integra WooCommerce coa túa tenda de Facebook."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/facebookincubator/facebook-for-woocommerce/"
+msgstr "https://github.com/facebookincubator/facebook-for-woocommerce/"
+
+#: facebook-commerce.php:2580
+msgid "Products with one or more of these tags will not sync to Facebook."
+msgstr "Os produtos cunha ou máis destas etiquetas non se sincronizarán con Facebook."
+
+#: facebook-commerce.php:2592
+msgid "Choose which product description to display in the Facebook catalog."
+msgstr "Elixe que descrición do produto amosar no catálogo de Facebook."
+
+#: facebook-commerce.php:2567
+msgid "Products in one or more of these categories will not sync to Facebook."
+msgstr "Os produtos nunha ou máis destas categorías non se sincronizarán con Facebook."
+
+#: facebook-commerce.php:2157
+msgid "Please click Manage connection > Advanced Options > Update Token to refresh your connection to Facebook."
+msgstr "Por favor, fai clic en «Xestionar a conexión > Opcións avanzadas > Actualizar o token» para refrescar a túa conexión con Facebook."
+
+#. translators: Placeholders %1$s - WooCommerce version
+#: facebook-commerce.php:1938
+msgid "Facebook product sync may not work correctly in WooCommerce version %1$s. Please upgrade to WooCommerce 3."
+msgstr "A sincronización dos produtos de Facebook pode non funcionar correctamente na versión %1$s de WooCommerce. Por favor, actualiza a WooCommerce 3."
+
+#. translators: Placeholders %1$s - opening strong HTML tag, %2$s - closing
+#. strong HTML tag, %3$s - opening link HTML tag, %4$s - closing link HTML tag
+#: facebook-commerce.php:1919
+msgid "%1$sFacebook for WooCommerce is almost ready.%2$s To complete your configuration, %3$scomplete the setup steps%4$s."
+msgstr "%1$sFacebook for WooCommerce está case listo.%2$s Para completar a túa configuración, %3$scompleta os pasos da configuración%4$s."
+
+#: includes/fbwpml.php:117
+msgid "WooCommerce Products with languages that are selected here will be visible to customers who see your Facebook Shop."
+msgstr "Os produtos de WooCommerce con idiomas que son seleccionados aquí, serán visibles para os clientes que vexan a túa tenda de Facebook."
+
+#: includes/AJAX.php:88
+msgid "This product will no longer be updated in your Facebook catalog. Would you like to hide this product from your Facebook shop?"
+msgstr "Este produto xa non se actualizará no teu catálogo de Facebook. Gustaríache ocultar este produto na túa tenda de Facebook?"
+
+#: includes/AJAX.php:191
+msgid "The selected products will no longer be updated in your Facebook catalog. Would you like to hide these products from your Facebook shop?"
+msgstr "Os produtos seleccionados xa non se actualizarán no teu catálogo de Facebook. Gustaríache ocultar estes produtos na túa tenda de Facebook?"
+
+#: includes/Admin.php:700 includes/Admin.php:795
+msgid "Custom (plain-text only) description for product on Facebook. If blank, product description will be used. If product description is blank, shortname will be used."
+msgstr "Descrición personalizada (só texto sen formato) para o produto en Facebook. Se está en branco, usarase a descrición do produto. Se a descrición do produto está en branco, usarase o nome curto."
+
+#: includes/Admin.php:736 includes/Admin.php:837
+msgid "Custom price for product on Facebook. Please enter in monetary decimal (.) format without thousand separators and currency symbols. If blank, product price will be used."
+msgstr "Prezo personalizado para o produto en Facebook. Por favor, introdúceo en formato monetario decimal (.) sen separadores de miles nin símbolos de moeda. Se está en branco, usarase o prezo do produto."
+
+#. translators: Placeholders: %1$s - opening <a> HTML link tag, %2$s - closing
+#. </a> HTML link tag
+#: facebook-commerce.php:2534
+msgid "Improve the ability to match site visitors to people on Facebook by passing additional site visitor information (such as email address or phone number). %1$sLearn more%2$s."
+msgstr "Mellora a capacidade de facer coincidir aos visitantes do sitio con persoas de Facebook pasando información adicional sobre os visitantes do sitio (como o enderezo de correo electrónico ou o número de teléfono). %1$sAprender máis%2$s."
+
+#: facebook-commerce.php:4162
+msgid "You're using Remove HTTP which has incompatibilities with our extension. Please disable it, or select the \"Ignore external links\" option on the Remove HTTP settings page."
+msgstr "Estás usando «Remove HTTP» que ten incompatibilidades coa nosa extensión. Por favor, desactívao ou selecciona a opción «Ignorar os enlaces externos» na páxina de axustes de «Remove HTTP»."
+
+#. translators: Placeholders: %1$s - Facebook for Woocommerce, %2$s - opening
+#. HTML <a> link tag, %3$s - closing HTML </a> link tag
+#: includes/Admin.php:546
+msgid "%1$s: One or more of your products is using a checkout URL that may be different than your shop checkout URL. %2$sRe-sync your products to update checkout URLs on Facebook%3$s."
+msgstr "%1$s: un ou máis dos teus produtos está usando unha URL de pagamento que pode ser distinta da URL de pagamento da túa tenda. %2$sResincroniza os teus produtos para actualizar as URL de pagamento en Facebook%3$s."
+
+#: includes/AJAX.php:233
+msgid "One or more of the selected products belongs to a category or tag that is excluded from the Facebook catalog sync. To sync these products to Facebook, please remove the category or tag exclusion from the plugin settings."
+msgstr "Un ou máis dos produtos seleccionados pertence a unha categoría ou etiqueta que está excluída da sincronización do catálogo de Facebook. Para sincronizar estes produtos con Facebook, por favor, elimina a exclusión da categoría ou da etiqueta dos axustes do plugin."
+
+#. translators: Placeholder %s - <br/> tags
+#: includes/AJAX.php:306
+msgid "The categories and/or tags that you have selected to exclude from sync contain products that are currently synced to Facebook.%sTo exclude these products from the Facebook sync, click Exclude Products. To review the category / tag exclusion settings, click Cancel."
+msgstr "As categorías e/ou etiquetas que seleccionaches para excluír da sincronización conteñen produtos que están actualmente sincronizados con Facebook.%sPara excluír estes produtos da sincronización con Facebook, fai clic en «Excluír produtos». Para revisar os axustes da exclusión de categorías/etiquetas, fai clic en «Cancelar»."
+
+#. Description of the plugin
+msgid "Grow your business on Facebook! Use this official plugin to help sell more of your products using Facebook. After completing the setup, you'll be ready to create ads that promote your products and you can also create a shop section on your Page where customers can browse your products on Facebook."
+msgstr "Fai crecer o teu negocio en Facebook! Usa este plugin oficial para axudar a vender máis produtos usando Facebook. Despois de completar a configuración, estarás listo para crear anuncios que promocionen os teus produtos e tamén podes crear unha sección de tenda na túa páxina onde os clientes poidan explorar os teus produtos en Facebook."
+
+#. translators: Placeholder %s - <br/> tag
+#: includes/AJAX.php:140
+msgid "This product belongs to a category or tag that is excluded from the Facebook catalog sync. It will not sync to Facebook. %sTo sync this product to Facebook, click Go to Settings and remove the category or tag exclusion or click Cancel and update the product's category / tag assignments."
+msgstr "Este produto pertence a unha categoría ou etiqueta que está excluída da sincronización do catálogo de Facebook. Non se sincronizará con Facebook.%sPara sincronizar este produto con Facebook, fai clic en «Ir aos axustes» e elimina a exclusión da categoría ou da etiqueta ou fai clic en «Cancelar» e actualiza as asignacións da categoría / etiqueta do produto."

@@ -1,0 +1,14 @@
+2020-05-04T01:40:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) en /home/gloriabotonero/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 419
+
+2020-05-04T05:48:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) en /home/gloriabotonero/www/wp-content/plugins/wordpress-seo/frontend/class-opengraph.php en la línea 408
+
+2020-05-04T07:24:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) en /home/gloriabotonero/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 17431
+
+2020-05-04T07:52:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) en /home/gloriabotonero/www/wp-content/plugins/wordpress-seo/frontend/class-opengraph.php en la línea 408
+
+2020-05-04T08:21:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) en /home/gloriabotonero/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 416
+
+2020-05-04T17:32:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) en /home/gloriabotonero/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 416
+
+2020-05-04T22:34:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) en /home/gloriabotonero/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 423
+

@@ -1,0 +1,6 @@
+2020-05-12T13:09:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) en /home/gloriabotonero/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php en la línea 419
+
+2020-05-12T18:34:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) en /home/gloriabotonero/www/wp-includes/template-loader.php en la línea 1
+
+2020-05-12T19:11:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) en /home/gloriabotonero/www/wp-includes/template-loader.php en la línea 1
+

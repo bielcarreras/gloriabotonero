@@ -1,0 +1,283 @@
+# Translation of Themes - Furnish Lite in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Furnish Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-02 06:41:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Furnish Lite\n"
+
+#. Theme Name of the theme
+msgid "Furnish Lite"
+msgstr "Furnish Lite"
+
+#. Description of the theme
+msgid "Furnish WordPress Theme is a modern and clean theme wooden services and fulfill the requirement of the carpentry business of the people. Nowadays the internet is the biggest helper for the customer to search for any goods required for them. The top of the WordPress theme is made nice scrolling slider and animation can be provided properly. Furniture WordPress theme is best way that can help the businessman to empower their business on the web. This theme also compatible with the some popular plugin like wocommerce and contact form 7."
+msgstr "El tema Furnish para WordPress es un tema moderno y limpio para los servicios para la madera y cumple con los requisitos de los negocios de carpintería. Hoy en día, Internet es la mayor ayuda para que el cliente busque cualquier mercancía que necesite. La parte superior del tema para WordPress está hecho con un agradable carrusel deslizante y la animación puede ofrecerse adecuadamente. El tema Furnish para WordPress es la mejor manera de ayudar al empresario a potenciar su negocio en la web. Este tema también es compatible con algunos plugins populares como WooCommerce y Contact Form 7."
+
+#: content-single.php:34
+msgid " | Tags: "
+msgstr " | Etiquetas: "
+
+#: customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: customize-pro/class-customize.php:64
+msgid "Furnish Pro"
+msgstr "Furnish Pro"
+
+#: header.php:72
+msgid "Menu"
+msgstr "Menú"
+
+#: footer.php:14
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer.php:304
+msgid "Check this to hide topbar"
+msgstr "Marca esto para ocultar la barra superior"
+
+#: inc/customizer.php:278
+msgid "Social Section 4."
+msgstr "Sección social 4."
+
+#: inc/customizer.php:251
+msgid "Social Section 3."
+msgstr "Sección social 3."
+
+#: inc/customizer.php:223
+msgid "Social Section 2."
+msgstr "Sección social 2."
+
+#: inc/customizer.php:209 inc/customizer.php:236 inc/customizer.php:264
+#: inc/customizer.php:291
+msgid "Add social icon link here."
+msgstr "Añade aquí el enlace del icono social."
+
+#: inc/customizer.php:197 inc/customizer.php:224 inc/customizer.php:252
+#: inc/customizer.php:279
+msgid "Add social icon name here. All the letters should be in lowercase."
+msgstr "Añade aquí el nombre del icono social. Todas las letras deben ser minúsculas."
+
+#: inc/customizer.php:196
+msgid "Social Section 1."
+msgstr "Sección social 1."
+
+#: inc/customizer.php:180
+msgid "Add phone number."
+msgstr "Añade el número de teléfono."
+
+#: inc/customizer.php:167
+msgid "Add email address."
+msgstr "Añade la dirección de correo electrónico."
+
+#: inc/customizer.php:155
+msgid "Add content for topbar"
+msgstr "Añade el contenido para la barra superior"
+
+#: inc/customizer.php:153
+msgid "Topbar Info"
+msgstr "Información de la barra superior"
+
+#: inc/customizer.php:143
+msgid "Check this to hide slider"
+msgstr "Marca esto para ocultar el carrusel"
+
+#: inc/customizer.php:128
+msgid "Add slider link button text."
+msgstr "Añade el texto del botón de enlace del carrusel."
+
+#: inc/customizer.php:118
+msgid "Select page for slide three:"
+msgstr "Selecciona la página para la diapositiva tres:"
+
+#: inc/customizer.php:106
+msgid "Select page for slide two:"
+msgstr "Selecciona la página para la diapositiva dos:"
+
+#: inc/customizer.php:94
+msgid "Select page for slide one:"
+msgstr "Selecciona la página para la diapositiva uno:"
+
+#: inc/customizer.php:82
+msgid "Recommended image size (1420x567). Slider will be visible only when you select static front page."
+msgstr "Tamaño recomendado de la imagen (1420x567). El carrusel solo será visible cuando selecciones la página de inicio estática."
+
+#: inc/customizer.php:80
+msgid "Slider Settings"
+msgstr "Ajustes del carrusel"
+
+#: inc/customizer.php:70
+msgid "Select background color for footer."
+msgstr "Selecciona el color de fondo para el pie de página."
+
+#: inc/customizer.php:57
+msgid "Select hover color for menu."
+msgstr "Selecciona el color del menú al pasar el cursor."
+
+#: inc/customizer.php:44
+msgid "Select background color for header."
+msgstr "Selecciona el color de fondo para la cabecera."
+
+#: inc/customizer.php:31
+msgid "Select color from here."
+msgstr "Selecciona el color desde aquí."
+
+#: inc/customizer.php:30
+msgid "Color Scheme"
+msgstr "Esquema de color"
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Siguiente <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Anterior"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....<br />Do Not worry... it happens to the best of us."
+msgstr "Parece que has cogido un camino equivocado...<br />No te preocupes... nos pasa a los mejores."
+
+#: 404.php:14
+msgid "<strong>404</strong> Not Found"
+msgstr "<strong>404</strong> No encontrado"
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Quizá una búsqueda te pueda ayudar."
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: front-page.php:58 inc/customizer.php:123
+msgid "Read More"
+msgstr "Leer más"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#. Translators: If there are any character that are * not supported by Oswald,
+#. translate this to off, do not * translate into your own language.
+#: functions.php:86
+msgctxt "Oswald font:on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are any character that are * not supported by Roboto,
+#. translate this to off, do not * translate into your own language.
+#: functions.php:80
+msgctxt "Roboto font:on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are any character that are * not supported by Playfair
+#. Display, translate this to off, do not * translate into your own language.
+#: functions.php:74
+msgctxt "Playfair Display font:on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:56
+msgid "This widget is appear in pages as pages sidebar."
+msgstr "Este widget aparece en las páginas como una barra lateral de páginas."
+
+#: functions.php:55
+msgid "Page Sidebar"
+msgstr "Barra lateral de la página"
+
+#: functions.php:46
+msgid "Appears on blog page as sidebar. It will be displayed only in sidebar and single blog post."
+msgstr "Aparece en la página del blog como una barra lateral. Solo se mostrará en la barra lateral y en las entradas individuales del blog."
+
+#: functions.php:45
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Archivos"
+
+#: content.php:70 content-page.php:23 image.php:33 image.php:70
+#: content-single.php:40
+msgid "Edit"
+msgstr "Editar"
+
+#: content.php:67
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:67
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:67
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: content.php:36 content-page.php:18 image.php:64 content-single.php:28
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content.php:33
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:29
+msgid "Read More &raquo;"
+msgstr "Leer más &raquo;"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:14 content.php:47 content.php:57 content-single.php:33
+msgid ", "
+msgstr ", "
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Buscar…"
+
+#: footer.php:14
+msgid "Powered by WordPress"
+msgstr "Funciona con WordPress"
+
+#. Author URI of the theme
+msgid "https://alexathemes.net"
+msgstr "https://alexathemes.net"
+
+#. Author of the theme
+msgid "AlexaThemes"
+msgstr "AlexaThemes"
+
+#. Theme URI of the theme
+msgid "https://alexathemes.net/themes/free-furniture-wordpress-theme/"
+msgstr "https://alexathemes.net/themes/free-furniture-wordpress-theme/"
